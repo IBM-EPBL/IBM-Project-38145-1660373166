@@ -30,4 +30,4 @@ In this project, we are creating a web application which uses a deep learning mo
 
 ## 🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-38145-1660373166/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/EMPATHY%20MAP.pdf)
 <div align="center">
- <h5> Made with :hearts: in Mailam Engineering College </h5>
+ <h5>🗺️  Made with :hearts: in Mailam Engineering College 🗺️ </h5>

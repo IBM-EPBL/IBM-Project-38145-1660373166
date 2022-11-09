@@ -4,4 +4,5 @@
 * Flask application created
 
 ## Website screenshot
-<img src="https://i.ibb.co/8PNxSsj/Screenshot-21.png" height=600px>
+![Screenshot (4)](https://user-images.githubusercontent.com/113673865/200741067-ff622f7b-f1c7-4ff6-88cd-3f1410d3b84d.png)
+
